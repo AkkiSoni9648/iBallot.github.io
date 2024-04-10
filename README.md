@@ -23,8 +23,7 @@ HTML | CSS | Bootstrap | JavaScript | Nodejs | Expressjs | Sqlite | SMTP | API |
 
 
 ## Authors
-
-- [@GauravPathak](https://github.com/GauravPathak77)
+##Akash Soni
 ## Deployment
 
 Visit the live project
